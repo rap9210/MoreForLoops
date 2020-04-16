@@ -1,0 +1,13 @@
+More For Loops:
+1. intialize variables to be used in for loops.
+2. construct for loop for odd numbers using increments
+of 2 starting at 1. 
+3. construct for loop for even numbers using increments
+of 2 starting at 0. 
+4. initialize string of same characters as original
+word. Use for loop to replace those characters with
+the original words starting from the last index position.
+5. for loop with start at 1, end at input, increments of 
+1.
+6. for loop starts at input, ends at 1, decrements of 1.
+Print all iterations and the product of them. 
